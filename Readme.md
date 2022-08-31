@@ -8,3 +8,5 @@ https://github.com/SwamiKannan/Natural-Language-Processing/blob/main/Automated%2
 ## Key Ask:
 •	Guided by powerful AI techniques that can classify incidents to right functional groups can help organizations to reduce the resolving time of the issue and can focus on more productive tasks.
 <br>•	The goal is to build a classifier that can classify the tickets by analysing text.
+
+<sub> Image credit: https://www.itarian.com/images/free-online-ticketing-system.png </sub>
